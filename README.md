@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Awais-Ansarii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Awais Ansari, a Full Stack Developer
+- 👀 I’m interested in Web Developement
+- 🌱 I’m profecient in C++, Javascript, React.js, Node.js, Express.js, SQL, MongoDB, Tailwind.css 
+- 💞️ I’m looking for job.
+- 📫 contact me - awaisansari1502@gmail.com
 
-<!---
-Awais-Ansarii/Awais-Ansarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
